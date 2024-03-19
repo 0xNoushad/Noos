@@ -1,5 +1,5 @@
 const API_KEY = "b9b62ac490b94a419f5ff24569a46432";
-const url = "https://newsapi.org/v2/everything?q=";
+const url = '(https://newsapi.org/v2/everything?q') ;
 
 window.addEventListener("load", () => fetchNews("finance")); // Default to 'finance' category on page load
 
