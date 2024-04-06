@@ -73,3 +73,5 @@ searchButton.addEventListener("click", () => {
     if (curSelectedNav) curSelectedNav.classList.remove("active");
     curSelectedNav = null;
 });
+
+
